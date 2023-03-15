@@ -1,0 +1,392 @@
+[
+    {
+     "codigo": "1",
+     "nome_da_conta": "Receitas",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Não"
+    },
+    {
+     "codigo": "1.1",
+     "nome_da_conta": "Taxa condominial",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.2",
+     "nome_da_conta": "Reserva de dependência",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.3",
+     "nome_da_conta": "Multas",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.4",
+     "nome_da_conta": "Juros",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.5",
+     "nome_da_conta": "Multa condominial",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.6",
+     "nome_da_conta": "Água",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.7",
+     "nome_da_conta": "Gás",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.8",
+     "nome_da_conta": "Luz e energia",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.9",
+     "nome_da_conta": "Fundo de reserva",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.10",
+     "nome_da_conta": "Fundo de obras",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.11",
+     "nome_da_conta": "Correção monetária",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.12",
+     "nome_da_conta": "Transferência entre contas",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.13",
+     "nome_da_conta": "Pagamento duplicado",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.14",
+     "nome_da_conta": "Cobrança",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.15",
+     "nome_da_conta": "Crédito",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.16",
+     "nome_da_conta": "Água mineral",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.17",
+     "nome_da_conta": "Estorno taxa de resgate",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.18",
+     "nome_da_conta": "Acordo",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "1.19",
+     "nome_da_conta": "Honorários",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2",
+     "nome_da_conta": "Despesas",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Não"
+    },
+    {
+     "codigo": "2.1",
+     "nome_da_conta": "Com pessoal",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Não"
+    },
+    {
+     "codigo": "2.1.1",
+     "nome_da_conta": "Salário",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.2",
+     "nome_da_conta": "Adiantamento salarial",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.3",
+     "nome_da_conta": "Hora extra",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.4",
+     "nome_da_conta": "Férias",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.5",
+     "nome_da_conta": "13º salário",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.6",
+     "nome_da_conta": "Adiantamento 13º salário",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.7",
+     "nome_da_conta": "Adicional de função",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.8",
+     "nome_da_conta": "Aviso prévio",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.9",
+     "nome_da_conta": "INSS",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.10",
+     "nome_da_conta": "FGTS",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.11",
+     "nome_da_conta": "PIS",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.12",
+     "nome_da_conta": "Vale refeição",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.13",
+     "nome_da_conta": "Vale transporte",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.14",
+     "nome_da_conta": "Cesta básica",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.1.15",
+     "nome_da_conta": "Acordo trabalhista",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.2",
+     "nome_da_conta": "Mensais",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Não"
+    },
+    {
+     "codigo": "2.2.1",
+     "nome_da_conta": "Energia elétrica",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.2.2",
+     "nome_da_conta": "Água e esgoto",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.2.3",
+     "nome_da_conta": "Taxa de administração",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.2.4",
+     "nome_da_conta": "Gás",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.2.5",
+     "nome_da_conta": "Seguro obrigatório",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.2.6",
+     "nome_da_conta": "Telefone",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.2.7",
+     "nome_da_conta": "Softwares e aplicativos",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.3",
+     "nome_da_conta": "Manutenção",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Não"
+    },
+    {
+     "codigo": "2.3.1",
+     "nome_da_conta": "Elevador",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.3.2",
+     "nome_da_conta": "Limpeza e conservação",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.3.3",
+     "nome_da_conta": "Jardinagem",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.4",
+     "nome_da_conta": "Diversas",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Não"
+    },
+    {
+     "codigo": "2.4.1",
+     "nome_da_conta": "Honorários de advogado",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.4.2",
+     "nome_da_conta": "Xerox",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.4.3",
+     "nome_da_conta": "Correios",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.4.4",
+     "nome_da_conta": "Despesas judiciais",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.4.5",
+     "nome_da_conta": "Multas",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.4.6",
+     "nome_da_conta": "Juros",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "2.4.7",
+     "nome_da_conta": "Transferência entre contas",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "3",
+     "nome_da_conta": "Despesas bancárias",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Não"
+    },
+    {
+     "codigo": "3.1",
+     "nome_da_conta": "Registro de boletos",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "3.2",
+     "nome_da_conta": "Processamento de boletos",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "3.3",
+     "nome_da_conta": "Registro e processamento de boletos",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "3.4",
+     "nome_da_conta": "Resgates",
+     "tipo": "Despesa",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "4",
+     "nome_da_conta": "Outras receitas",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Não"
+    },
+    {
+     "codigo": "4.1",
+     "nome_da_conta": "Rendimento de poupança",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    },
+    {
+     "codigo": "4.2",
+     "nome_da_conta": "Rendimento de investimentos",
+     "tipo": "Receita",
+     "aceita_Lançamentos": "Sim"
+    }
+   ]
